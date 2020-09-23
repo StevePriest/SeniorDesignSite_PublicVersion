@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72d65be3-0654-4a35-825b-942f73a0508d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hcneqV5TLhEPpfLV1C1xFufrCG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homeopathy/images" />
+      <recent name="$PROJECT_DIR$/Homeopathy/documentation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homeopathy/images" />
+      <recent name="$PROJECT_DIR$/Homeopathy/documentation" />
+      <recent name="$PROJECT_DIR$/Homeopathy/assets/css" />
+      <recent name="$PROJECT_DIR$/Homeopathy/assets/js" />
+      <recent name="$PROJECT_DIR$/Homeopathy/assets/fonts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72d65be3-0654-4a35-825b-942f73a0508d" name="Default Changelist" comment="" />
+      <created>1600319345749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600319345749</updated>
+      <workItem from="1600319348305" duration="2311000" />
+      <workItem from="1600321781837" duration="38000" />
+      <workItem from="1600358161341" duration="3602000" />
+      <workItem from="1600366988827" duration="68000" />
+      <workItem from="1600449281765" duration="117000" />
+      <workItem from="1600707450756" duration="6683000" />
+      <workItem from="1600738220452" duration="9011000" />
+      <workItem from="1600789509128" duration="14358000" />
+      <workItem from="1600825096869" duration="1185000" />
+      <workItem from="1600826669026" duration="33000" />
+      <workItem from="1600826706506" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="74" key="#Project_Structure" timestamp="1600825710526">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="360" y="74" key="#Project_Structure/0.23.1440.814@0.23.1440.814" timestamp="1600825710526" />
+    <state x="171" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600803645584">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="171" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1600803645584" />
+    <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600825498782">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814@0.23.1440.814" timestamp="1600825498782" />
+    <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1600711002368" />
+    <state x="540" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1600805043818" />
+    <state x="417" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1600826831819">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="417" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1600825096988" />
+    <state x="417" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1600826831819" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1600366989210" />
+    <state x="365" y="162" width="670" height="683" key="search.everywhere.popup" timestamp="1600798543857">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="365" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1600320636370" />
+    <state x="365" y="161" width="670" height="678" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1600360037933" />
+    <state x="365" y="162" width="670" height="683" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1600798543857" />
+  </component>
+</project>
