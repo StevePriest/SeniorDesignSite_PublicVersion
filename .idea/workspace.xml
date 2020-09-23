@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72d65be3-0654-4a35-825b-942f73a0508d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Homeopathy/deliverables.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/deliverables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeopathy/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeopathy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeopathy/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/schedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeopathy/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homeopathy/wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/wars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/assets/js/skel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/assets/js/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/deliverables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/images/gallery_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/images/home_background_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/images/home_background_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/images/home_background_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/images/home_background_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/images/hygieia_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/images/steve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/schedule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/wars.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +92,7 @@
       <workItem from="1600825096869" duration="1185000" />
       <workItem from="1600826669026" duration="33000" />
       <workItem from="1600826706506" duration="74000" />
-      <workItem from="1600826829354" duration="318000" />
+      <workItem from="1600826829354" duration="632000" />
     </task>
     <servers />
   </component>
@@ -97,12 +114,12 @@
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814@0.23.1440.814" timestamp="1600825498782" />
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1600711002368" />
     <state x="540" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1600805043818" />
-    <state x="417" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1600826831819">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1600829536939">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="417" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1600825096988" />
     <state x="417" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1600826831819" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1600366989210" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1600829536939" />
     <state x="365" y="162" width="670" height="683" key="search.everywhere.popup" timestamp="1600798543857">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
