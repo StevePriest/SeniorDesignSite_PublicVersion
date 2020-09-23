@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d65be3-0654-4a35-825b-942f73a0508d" name="Default Changelist" comment="" />
+    <list default="true" id="72d65be3-0654-4a35-825b-942f73a0508d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Homeopathy/deliverables.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/deliverables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeopathy/wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homeopathy/wars.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hcneqV5TLhEPpfLV1C1xFufrCG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,6 +75,7 @@
       <workItem from="1600825096869" duration="1185000" />
       <workItem from="1600826669026" duration="33000" />
       <workItem from="1600826706506" duration="74000" />
+      <workItem from="1600826829354" duration="318000" />
     </task>
     <servers />
   </component>
