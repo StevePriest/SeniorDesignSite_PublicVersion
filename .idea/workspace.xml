@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72d65be3-0654-4a35-825b-942f73a0508d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/documentation/meeting_minutes.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deliverables.html" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/wars.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,9 @@
       <workItem from="1600829536343" duration="1298000" />
       <workItem from="1600892749372" duration="215000" />
       <workItem from="1600998388918" duration="1109000" />
-      <workItem from="1601052787041" duration="1169000" />
+      <workItem from="1601052787041" duration="2632000" />
+      <workItem from="1601310033694" duration="789000" />
+      <workItem from="1601433314040" duration="837000" />
     </task>
     <servers />
   </component>
@@ -98,16 +101,17 @@
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814@0.23.1440.814" timestamp="1600825498782" />
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1600711002368" />
     <state x="540" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1600805043818" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1601052792526">
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1601433320665">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="417" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1600998389611" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1601052792526" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1601433320665" />
+    <state x="417" y="244" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1601310034836" />
     <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1600829536939" />
-    <state x="365" y="162" width="670" height="683" key="search.everywhere.popup" timestamp="1600798543857">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="365" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1601055809051">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state x="365" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1600320636370" />
+    <state x="365" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1601055809051" />
     <state x="365" y="161" width="670" height="678" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1600360037933" />
     <state x="365" y="162" width="670" height="683" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1600798543857" />
   </component>
