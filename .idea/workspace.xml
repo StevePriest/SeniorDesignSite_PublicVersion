@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="72d65be3-0654-4a35-825b-942f73a0508d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverables.html" beforeDir="false" afterPath="$PROJECT_DIR$/deliverables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/wars.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +84,8 @@
       <workItem from="1601868497797" duration="775000" />
       <workItem from="1601869318543" duration="5000" />
       <workItem from="1602208395094" duration="796000" />
-      <workItem from="1602262537489" duration="1392000" />
+      <workItem from="1602262537489" duration="2085000" />
+      <workItem from="1602813153597" duration="772000" />
     </task>
     <servers />
   </component>
@@ -104,12 +107,12 @@
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814@0.23.1440.814" timestamp="1600825498782" />
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1600711002368" />
     <state x="540" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1600805043818" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1602262540676">
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1602813154839">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="417" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1600998389611" />
     <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1602208396429" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1602262540676" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1602813154839" />
     <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1600829536939" />
     <state x="365" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1601055809051">
       <screen x="0" y="23" width="1440" height="814" />
