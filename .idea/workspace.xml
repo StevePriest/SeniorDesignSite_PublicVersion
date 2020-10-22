@@ -84,7 +84,10 @@
       <workItem from="1602208395094" duration="796000" />
       <workItem from="1602262537489" duration="2085000" />
       <workItem from="1602813153597" duration="1821000" />
-      <workItem from="1603071365102" duration="621000" />
+      <workItem from="1603071365102" duration="1399000" />
+      <workItem from="1603125499175" duration="957000" />
+      <workItem from="1603208202343" duration="339000" />
+      <workItem from="1603251865092" duration="99000" />
     </task>
     <servers />
   </component>
@@ -106,12 +109,12 @@
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814@0.23.1440.814" timestamp="1600825498782" />
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1600711002368" />
     <state x="540" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1600805043818" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1603071366569">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1603330293334">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="417" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1600998389611" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1603071366569" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1602813154839" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1603208202160" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1603330293334" />
     <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1600829536939" />
     <state x="365" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1601055809051">
       <screen x="0" y="23" width="1440" height="814" />
