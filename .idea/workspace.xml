@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72d65be3-0654-4a35-825b-942f73a0508d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/meeting_minutes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/documentation/meeting_minutes.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/wars.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,16 +39,16 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Homeopathy/images" />
-      <recent name="$PROJECT_DIR$/Homeopathy/documentation" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/documentation" />
       <recent name="$PROJECT_DIR$/Homeopathy/images" />
       <recent name="$PROJECT_DIR$/Homeopathy/documentation" />
       <recent name="$PROJECT_DIR$/Homeopathy/assets/css" />
       <recent name="$PROJECT_DIR$/Homeopathy/assets/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homeopathy/images" />
+      <recent name="$PROJECT_DIR$/Homeopathy/documentation" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -91,7 +92,10 @@
       <workItem from="1603330290125" duration="1833000" />
       <workItem from="1604104887863" duration="1474000" />
       <workItem from="1604334211079" duration="1033000" />
-      <workItem from="1604425247015" duration="233000" />
+      <workItem from="1604425247015" duration="568000" />
+      <workItem from="1604512534604" duration="253000" />
+      <workItem from="1604635937582" duration="10000" />
+      <workItem from="1604805529768" duration="722000" />
     </task>
     <servers />
   </component>
@@ -113,12 +117,12 @@
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814@0.23.1440.814" timestamp="1600825498782" />
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1600711002368" />
     <state x="540" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1600805043818" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1604425246222">
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1604805533922">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="417" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1600998389611" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1604425246222" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1603330293334" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1604805533922" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1604635938142" />
     <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1600829536939" />
     <state x="365" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1601055809051">
       <screen x="0" y="23" width="1440" height="814" />
