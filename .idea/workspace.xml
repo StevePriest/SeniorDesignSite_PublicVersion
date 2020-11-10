@@ -21,7 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="72d65be3-0654-4a35-825b-942f73a0508d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/wars.html" beforeDir="false" afterPath="$PROJECT_DIR$/wars.html" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,8 +115,15 @@
       <workItem from="1604425247015" duration="568000" />
       <workItem from="1604512534604" duration="253000" />
       <workItem from="1604635937582" duration="10000" />
+<<<<<<< Updated upstream
       <workItem from="1604805529768" duration="722000" />
       <workItem from="1604931008406" duration="329000" />
+=======
+      <workItem from="1604805529768" duration="1059000" />
+      <workItem from="1604890131106" duration="259000" />
+      <workItem from="1604939857700" duration="76000" />
+      <workItem from="1605023529028" duration="501000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
@@ -146,11 +156,11 @@
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814@0.23.1440.814" timestamp="1600825498782" />
     <state x="540" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1600711002368" />
     <state x="540" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1600805043818" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1604805533922">
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1605023531141">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="417" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1600998389611" />
-    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1604805533922" />
+    <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1605023531141" />
     <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1604635938142" />
     <state x="417" y="243" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1600829536939" />
     <state x="365" y="161" width="670" height="676" key="search.everywhere.popup" timestamp="1601055809051">
